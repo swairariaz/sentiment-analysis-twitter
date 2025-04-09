@@ -1,7 +1,9 @@
 # 🧠 Sentiment Analysis on Twitter-like Text
 
 <p align="center">
-  <img src=<img width="438" alt="Image" src="https://github.com/user-attachments/assets/3f359197-4928-4e0b-856a-109e86f883ca" />
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
+  <img src="https://img.shields.io/badge/NLP-Sentiment Analysis-orange?logo=nlp">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
 </p>
 
 > 🎯 This project performs sentiment analysis on Twitter-style short texts using a machine learning model built with scikit-learn. It predicts whether a given sentence expresses a **positive** or **negative** sentiment.
