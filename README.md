@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
 </p>
 
+<p align="center"> <img src="result.png" alt="Model Output Screenshot" width="600"> </p>
+
 > 🎯 This project performs sentiment analysis on Twitter-style short texts using a machine learning model built with scikit-learn. It predicts whether a given sentence expresses a **positive** or **negative** sentiment.
 
 ---
